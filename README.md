@@ -18,7 +18,7 @@ npm run preview  # preview the production build
 
 Push to `main` — `.github/workflows/deploy.yml` builds and publishes `dist/` to GitHub Pages automatically.
 
-Site: https://neo.github.io/
+Site: https://mmarlodev.github.io/neo.github.io/
 
 ## Updating content
 

@@ -11,6 +11,6 @@ export const product = {
   // GitHub Releases, e.g. https://github.com/<org>/<repo>/releases/download/v0.1.0/Neo-Setup.exe
   // When empty, the Download button links to the releases page instead.
   downloadUrl: "",
-  releasesUrl: "https://github.com/neo/neo/releases",
-  repoUrl: "https://github.com/neo/neo.github.io",
+  releasesUrl: "https://github.com/mmarlodev/neo/releases",
+  repoUrl: "https://github.com/mmarlodev/neo.github.io",
 };
