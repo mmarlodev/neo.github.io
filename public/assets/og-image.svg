@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0b0d"/>
+  <circle cx="600" cy="270" r="180" fill="#ffffff" opacity="0.04"/>
+  <circle cx="600" cy="270" r="110" fill="#ffffff" opacity="0.06"/>
+  <g transform="translate(552,222)">
+    <path fill="#ffffff" d="M48 6c1.8 21.2 12.8 32.2 34 34-21.2 1.8-32.2 12.8-34 34-1.8-21.2-12.8-32.2-34-34 21.2-1.8 32.2-12.8 34-34z"/>
+    <path fill="#ffffff" opacity=".55" transform="translate(30,36) scale(.55)" d="M48 6c1.8 21.2 12.8 32.2 34 34-21.2 1.8-32.2 12.8-34 34-1.8-21.2-12.8-32.2-34-34 21.2-1.8 32.2-12.8 34-34z"/>
+  </g>
+  <text x="600" y="520" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="600" fill="#fafafa" letter-spacing="-2">Neo</text>
+  <text x="600" y="575" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="30" fill="#8b8b93" letter-spacing="1">Your AI. Always by your side.</text>
+</svg>
